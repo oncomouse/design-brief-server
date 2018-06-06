@@ -1,0 +1,27 @@
+{
+  "Food Truck": [
+    "Taco My Love",
+    "Bun Barn",
+    "Falafel Wagon"
+  ],
+  "Coffee House": [
+    "Brown Town",
+    "Caprismo",
+    "Sprocket Roasting Company"
+  ],
+  "Clothing Store": [
+    "Expressions",
+    "Bright Star Outfitters",
+    "Night Moves"
+  ],
+  "Sporting Goods Store": [
+    "Sweat City",
+    "Griffin's Hockey Land",
+    "Bat Town"
+  ],
+  "Restaurant": [
+    "Fork and Fig",
+    "Han Dynasty",
+    "The Crown and Thistle"
+  ]
+}
