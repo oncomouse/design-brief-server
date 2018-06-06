@@ -1,4 +1,5 @@
 const express = require('express');
+const cors = require('cors');
 const app = express();
 
 const adjectives = require('./data/adjectives.json');
@@ -8,7 +9,7 @@ const cities = require('./data/cities.json');
 
 const makeRandom = (items) => items[Math.floor(Math.random()*items.length)];
 const randomInt = (low,high) => Math.floor(low + Math.random() * (high - 1));
-
+app.use(cors());
 app.get('/', (req, res) => {
   const type = makeRandom(Object.keys(businesses));
   const name = makeRandom(businesses[type]);
