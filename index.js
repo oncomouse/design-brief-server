@@ -1,6 +1,7 @@
 const express = require('express');
 const cors = require('cors');
 const app = express();
+const PORT = process.env.PORT || 3000;
 
 const adjectives = require('./data/adjectives.json');
 const audiences = require('./data/audience.json');
@@ -39,4 +40,4 @@ app.get('/business', (req, res) => {
 });
 app.get('/city', (req, res) => res.json(makeRandom(cities).city));
 
-app.listen(3000, () => console.log('Example app listening on port 3000!'))
+app.listen(PORT, () => console.log(`Listening on ${ PORT }`));
