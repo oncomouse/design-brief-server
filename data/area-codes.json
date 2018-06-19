@@ -1,0 +1,1526 @@
+{
+  "201": {
+    "region": "New Jersey",
+    "city": "Bayonne, Jersey City, Union City"
+  },
+  "202": {
+    "region": "D.C.",
+    "city": "Washington D.C. area"
+  },
+  "203": {
+    "region": "Connecticut",
+    "city": "Bridgeport, Danbury, Fairfield, Greenwich, Hamden, Meriden, Milford, New Haven, Norwalk, Stamford, Waterbury, West Haven"
+  },
+  "204": {
+    "region": "Canada (Manitoba)",
+    "city": "Winnipeg"
+  },
+  "205": {
+    "region": "Alabama",
+    "city": "Birmingham, Hoover, Tuscaloosa"
+  },
+  "206": {
+    "region": "Washington",
+    "city": "Kent, Seattle, Shoreline"
+  },
+  "207": {
+    "region": "Maine",
+    "city": "Portland"
+  },
+  "208": {
+    "region": "Idaho",
+    "city": "Boise, Idaho Falls, Nampa, Pocatelllo"
+  },
+  "209": {
+    "region": "California",
+    "city": "Lodi, Merced, Modesto, Stockton, Tracy, Turlock"
+  },
+  "210": {
+    "region": "Texas",
+    "city": "San Antonio"
+  },
+  "212": {
+    "region": "New York",
+    "city": "New York City - Manhattan area"
+  },
+  "213": {
+    "region": "California",
+    "city": "Los Angeles"
+  },
+  "214": {
+    "region": "Texas",
+    "city": "Arlington, Carrollton, Dallas, Flower Mound, Garland, Grand Prairie, Irving, Lewisville, McKinney, Mesquite, Plano, Richardson"
+  },
+  "215": {
+    "region": "Pennsylvania",
+    "city": "Levittown, Philadelphia"
+  },
+  "216": {
+    "region": "Ohio",
+    "city": "Cleveland, Euclid, Lakewood, Parma"
+  },
+  "217": {
+    "region": "Illinois",
+    "city": "Champaign, Decatur, Springfield"
+  },
+  "218": {
+    "region": "Minnesota",
+    "city": "Duluth"
+  },
+  "219": {
+    "region": "Indiana",
+    "city": "Gary, Hammond"
+  },
+  "220": {
+    "region": "Ohio",
+    "city": "Chillicothe, Zanesville"
+  },
+  "223": {
+    "region": "Pennsylvania",
+    "city": "Lancaster"
+  },
+  "224": {
+    "region": "Illinois",
+    "city": "Arlington Heights, Des Plaines, Elgin, Evanston, Mount Prospect, Palatine, Schaumburg, Skokie, Waukegan"
+  },
+  "225": {
+    "region": "Louisiana",
+    "city": "Baton Rouge"
+  },
+  "226": {
+    "region": "Canada (Ontario)",
+    "city": "Brantford, Cambridge, Chatham, Guelph, Kitchener, London, Sarnia, Windsor"
+  },
+  "228": {
+    "region": "Mississippi",
+    "city": "Biloxi, Gulfport"
+  },
+  "229": {
+    "region": "Georgia",
+    "city": "Albany"
+  },
+  "231": {
+    "region": "Michigan",
+    "city": "Muskegon, Shelby"
+  },
+  "234": {
+    "region": "Ohio",
+    "city": "Akron, Canton, Youngstown"
+  },
+  "236": {
+    "region": "Canada (British Columbia)",
+    "city": "Abbotsford, Burnaby, Chilliwack, Coquitlam, New Westminster, Port Coquitlam, Richmond, Surrey, Vancouver"
+  },
+  "239": {
+    "region": "Florida",
+    "city": "Cape Coral"
+  },
+  "240": {
+    "region": "Maryland",
+    "city": "Aspen Hill, Bethesda, Bowie, Frederick, Gaithersburg, Germantown, Silver Spring, Wheaton-Glenmont"
+  },
+  "242": {
+    "region": "Bahamas",
+    "city": "Freeport, Nassau"
+  },
+  "246": {
+    "region": "Barbados",
+    "city": "Bridgetown, The Crane"
+  },
+  "248": {
+    "region": "Michigan",
+    "city": "Farmington Hills, Pontiac, Rochester Hills, Royal Oak, Southfield, Troy, Waterford"
+  },
+  "249": {
+    "region": "Canada (Ontario)",
+    "city": "Barrie, North Bay, Peterborough, Sault Ste. Marie, Sudbury"
+  },
+  "250": {
+    "region": "Canada (British Columbia)",
+    "city": "Kamloops, Kelowna, Nanaimo, Prince George, Victoria"
+  },
+  "251": {
+    "region": "Alabama",
+    "city": "Mobile"
+  },
+  "252": {
+    "region": "North Carolina",
+    "city": "Greenville, Rocky Mount"
+  },
+  "253": {
+    "region": "Washington",
+    "city": "Federal Way, Lakewood, Tacoma"
+  },
+  "254": {
+    "region": "Texas",
+    "city": "Killeen, Temple, Waco"
+  },
+  "256": {
+    "region": "Alabama",
+    "city": "Decatur, Huntsville"
+  },
+  "260": {
+    "region": "Indiana",
+    "city": "Fort Wayne"
+  },
+  "262": {
+    "region": "Wisconsin",
+    "city": "Kenosha, Racine"
+  },
+  "264": {
+    "region": "Anguilla",
+    "city": "Dog Island, Scrub Island, The Valley"
+  },
+  "267": {
+    "region": "Pennsylvania",
+    "city": "Levittown, Philadelphia"
+  },
+  "268": {
+    "region": "Antigua & Barbuda",
+    "city": "Freetown, Saint John's"
+  },
+  "269": {
+    "region": "Michigan",
+    "city": "Battle Creek, Kalamazoo"
+  },
+  "270": {
+    "region": "Kentucky",
+    "city": "Bowling Green, Owensboro"
+  },
+  "272": {
+    "region": "Pennsylvania",
+    "city": "Scranton, Wilkes-Barre"
+  },
+  "276": {
+    "region": "Virginia",
+    "city": "Castlewood, Hillsville, Woodlawn"
+  },
+  "279": {
+    "region": "California",
+    "city": "Arden-Arcade, Citrus Heights, Elk Grove, Folsom, Rancho Cordova, Roseville, Sacramento"
+  },
+  "281": {
+    "region": "Texas",
+    "city": "832/346*\tBaytown, Houston, Missouri City, Pasadena, Sugar Land, The Woodlands"
+  },
+  "284": {
+    "region": "British Virgin Islands",
+    "city": "Road Town, Virgin Gorda"
+  },
+  "289": {
+    "region": "Canada (Ontario)",
+    "city": "Brampton, Burlington, Hamilton, Mississauga, Niagara Falls, Pickering, St. Catharines, Vaughan, Welland"
+  },
+  "301": {
+    "region": "Maryland",
+    "city": "Aspen Hill, Bethesda, Bowie, Frederick, Gaithersburg, Germantown, Silver Spring, Wheaton-Glenmont"
+  },
+  "302": {
+    "region": "Delaware",
+    "city": "Wilmington"
+  },
+  "303": {
+    "region": "Colorado",
+    "city": "Arvada, Aurora, Boulder, Denver, Highlands Ranch, Lakewood, Longmont, Thornton, Westminster"
+  },
+  "304": {
+    "region": "West Virginia",
+    "city": "Charleston, Huntington"
+  },
+  "305": {
+    "region": "Florida",
+    "city": "Carol City, Hialeah, Kendale Lakes, Kendall, Miami, Miami Beach, Miramar, Tamiami"
+  },
+  "306": {
+    "region": "Canada (Saskatchewan)",
+    "city": "Regina, Saskatoon"
+  },
+  "307": {
+    "region": "Wyoming",
+    "city": "Cheyenne"
+  },
+  "308": {
+    "region": "Nebraska",
+    "city": "North Platte, Scottsbluff"
+  },
+  "309": {
+    "region": "Illinois",
+    "city": "Bloomington, Peoria"
+  },
+  "310": {
+    "region": "California",
+    "city": "Carson, Compton, Gardena, Hawthorne, Inglewood, Lynwood, Redondo Beach, Santa Monica, Torrance"
+  },
+  "312": {
+    "region": "Illinois",
+    "city": "Chicago"
+  },
+  "313": {
+    "region": "Michigan",
+    "city": "Dearborn, Dearborn Heights, Detroit, Redford, Taylor"
+  },
+  "314": {
+    "region": "Missouri",
+    "city": "Florissant, St. Louis"
+  },
+  "315": {
+    "region": "New York",
+    "city": "Syracuse, Utica"
+  },
+  "316": {
+    "region": "Kansas",
+    "city": "Wichita"
+  },
+  "317": {
+    "region": "Indiana",
+    "city": "Indianapolis"
+  },
+  "318": {
+    "region": "Louisiana",
+    "city": "Bossier City, Monroe, Shreveport"
+  },
+  "319": {
+    "region": "Iowa",
+    "city": "Cedar Rapids, Iowa City, Waterloo"
+  },
+  "320": {
+    "region": "Minnesota",
+    "city": "St Cloud"
+  },
+  "321": {
+    "region": "Florida",
+    "city": "Melbourne, Orlando, Palm Bay"
+  },
+  "323": {
+    "region": "California",
+    "city": "Los Angeles"
+  },
+  "325": {
+    "region": "Texas",
+    "city": "Abilene, San Angelo"
+  },
+  "330": {
+    "region": "Ohio",
+    "city": "Akron, Canton, Youngstown"
+  },
+  "331": {
+    "region": "Illinois",
+    "city": "Aurora, Naperville, Wheaton"
+  },
+  "332": {
+    "region": "New York",
+    "city": "New York City - Manhattan area"
+  },
+  "334": {
+    "region": "Alabama",
+    "city": "Dothan, Montgomery"
+  },
+  "336": {
+    "region": "North Carolina",
+    "city": "Greensboro, High Point, Winston-Salem"
+  },
+  "337": {
+    "region": "Louisiana",
+    "city": "Lafayette, Lake Charles"
+  },
+  "339": {
+    "region": "Massachusetts",
+    "city": "Lynn, Malden, Medford, Waltham, Weymouth"
+  },
+  "340": {
+    "region": "US Virgin Islands",
+    "city": "Charlotte Amalie, Port Alucroix"
+  },
+  "343": {
+    "region": "Canada (Ontario)",
+    "city": "Kingston, Ottawa"
+  },
+  "345": {
+    "region": "Cayman Islands",
+    "city": "George Town"
+  },
+  "347": {
+    "region": "New York",
+    "city": "917/929*\tNew York City"
+  },
+  "351": {
+    "region": "Massachusetts",
+    "city": "Haverhill, Lawrence, Lowell"
+  },
+  "352": {
+    "region": "Florida",
+    "city": "Gainesville, Spring Hill"
+  },
+  "360": {
+    "region": "Washington",
+    "city": "Belingham, Vancouver"
+  },
+  "361": {
+    "region": "Texas",
+    "city": "Corpus Christi, Victoria"
+  },
+  "364": {
+    "region": "Kentucky",
+    "city": "Bowling Green, Owensboro"
+  },
+  "365": {
+    "region": "Canada (Ontario)",
+    "city": "Brampton, Burlington, Hamilton, Mississauga, Niagara Falls, Pickering, St. Catharines, Vaughan, Welland"
+  },
+  "380": {
+    "region": "Ohio",
+    "city": "Columbus"
+  },
+  "385": {
+    "region": "Utah",
+    "city": "Layton, Ogden, Orem, Provo, Salt Lake City, Sandy, Taylorsville, West Jordan, West Valley City"
+  },
+  "386": {
+    "region": "Florida",
+    "city": "Daytona Beach, Deltona"
+  },
+  "401": {
+    "region": "Rhode Island",
+    "city": "Cranston, Pawtucket, Providence, Warwick"
+  },
+  "402": {
+    "region": "Nebraska",
+    "city": "Lincoln, Omaha"
+  },
+  "403": {
+    "region": "Canada (Alberta)",
+    "city": "Calgary, Lethbridge, Medicine Hat, Red Deer"
+  },
+  "404": {
+    "region": "Georgia",
+    "city": "Atlanta, Sandy Springs"
+  },
+  "405": {
+    "region": "Oklahoma",
+    "city": "Midwest City, Norman, Oklahoma City"
+  },
+  "406": {
+    "region": "Montana",
+    "city": "Billings, Great Falls, Missoula"
+  },
+  "407": {
+    "region": "Florida",
+    "city": "Melbourne, Orlando, Palm Bay"
+  },
+  "408": {
+    "region": "California",
+    "city": "Cupertino, Milpitas, San Jose, Santa Clara, Sunnyvale"
+  },
+  "409": {
+    "region": "Texas",
+    "city": "Beaumont, Galveston, Port Arthur"
+  },
+  "410": {
+    "region": "Maryland",
+    "city": "Baltimore, Columbia, Dundalk, Ellicott City, Towson"
+  },
+  "412": {
+    "region": "Pennsylvania",
+    "city": "Pittsburgh"
+  },
+  "413": {
+    "region": "Massachusetts",
+    "city": "Chicopee, Pittsfield, Springfield"
+  },
+  "414": {
+    "region": "Wisconsin",
+    "city": "Milwaukee"
+  },
+  "415": {
+    "region": "California",
+    "city": "San Francisco, San Rafael"
+  },
+  "416": {
+    "region": "Canada (Ontario)",
+    "city": "Toronto"
+  },
+  "417": {
+    "region": "Missouri",
+    "city": "Springfield"
+  },
+  "418": {
+    "region": "Canada (Quebec)",
+    "city": "Levis, Quebec City"
+  },
+  "419": {
+    "region": "Ohio",
+    "city": "Sandusky, Toledo"
+  },
+  "423": {
+    "region": "Tennessee",
+    "city": "Chattanooga, Johnson City"
+  },
+  "424": {
+    "region": "California",
+    "city": "Carson, Compton, Gardena, Hawthorne, Inglewood, Lynwood, Redondo Beach, Santa Monica, Torrance"
+  },
+  "425": {
+    "region": "Washington",
+    "city": "Bellevue, Everett, Renton"
+  },
+  "430": {
+    "region": "Texas",
+    "city": "Longview, Tyler"
+  },
+  "431": {
+    "region": "Canada (Manitoba)",
+    "city": "Winnipeg"
+  },
+  "432": {
+    "region": "Texas",
+    "city": "Midland, Odessa"
+  },
+  "434": {
+    "region": "Virginia",
+    "city": "Lynchburg"
+  },
+  "435": {
+    "region": "Utah",
+    "city": "Brigham City, Logan, Tremonton"
+  },
+  "437": {
+    "region": "Canada (Ontario)",
+    "city": "Toronto"
+  },
+  "438": {
+    "region": "Canada (Quebec)",
+    "city": "Montreal"
+  },
+  "440": {
+    "region": "Ohio",
+    "city": "Elyria, Lorain, Mentor"
+  },
+  "441": {
+    "region": "Bermuda",
+    "city": "Devonshire, St. George's, Warwick"
+  },
+  "442": {
+    "region": "California",
+    "city": "Apple Valley, Carlsbad, Encinitas, Escondido, Hesperia, Oceanside, San Marcos, Victorville, Vista"
+  },
+  "443": {
+    "region": "Maryland",
+    "city": "Baltimore, Columbia, Dundalk, Ellicott City, Towson"
+  },
+  "445": {
+    "region": "Pennsylvania",
+    "city": "Levittown, Philadelphia"
+  },
+  "450": {
+    "region": "Canada (Quebec)",
+    "city": "Brossard, Laval, Repentigny, Saint-Hyacinthe, Saint-Jean-sur-Richelieu, Saint-Jerome, Terrebonne"
+  },
+  "458": {
+    "region": "Oregon",
+    "city": "Bend, Eugene, Medford, Springfield"
+  },
+  "463": {
+    "region": "Indiana",
+    "city": "Indianapolis"
+  },
+  "469": {
+    "region": "Texas",
+    "city": "Arlington, Carrollton, Dallas, Flower Mound, Garland, Grand Prairie, Irving, Lewisville, McKinney, Mesquite, Plano, Richardson"
+  },
+  "470": {
+    "region": "Georgia",
+    "city": "Atlanta, Marietta, Roswell, Sandy Springs"
+  },
+  "473": {
+    "region": "Grenada",
+    "city": "St. George's, Victoria"
+  },
+  "475": {
+    "region": "Connecticut",
+    "city": "Bridgeport, Danbury, Fairfield, Greenwich, Hamden, Meriden, Milford, New Haven, Norwalk, Stamford, Waterbury, West Haven"
+  },
+  "478": {
+    "region": "Georgia",
+    "city": "Macon"
+  },
+  "479": {
+    "region": "Arkansas",
+    "city": "Fort Smith, Fayetteville"
+  },
+  "480": {
+    "region": "Arizona",
+    "city": "Chandler, Mesa, Phoenix, Scottsdale, Tempe"
+  },
+  "484": {
+    "region": "Pennsylvania",
+    "city": "Allentown, Bethlehem, Reading"
+  },
+  "501": {
+    "region": "Arkansas",
+    "city": "Little Rock, North Little Rock"
+  },
+  "502": {
+    "region": "Kentucky",
+    "city": "Louisville"
+  },
+  "503": {
+    "region": "Oregon",
+    "city": "Beaverton, Gresham, Hillsboro, Portland, Salem"
+  },
+  "504": {
+    "region": "Louisiana",
+    "city": "Kenner, Metairie, New Orleans"
+  },
+  "505": {
+    "region": "New Mexico",
+    "city": "Albuquerque, Farmington, Gallup, Santa Fe"
+  },
+  "506": {
+    "region": "Canada (New Brunswick)",
+    "city": "Fredericton, Moncton, Saint John"
+  },
+  "507": {
+    "region": "Minnesota",
+    "city": "Rochester"
+  },
+  "508": {
+    "region": "Massachusetts",
+    "city": "Brockton, Fall River, Framingham, New Bedford, Taunton, Worcester"
+  },
+  "509": {
+    "region": "Washington",
+    "city": "Kennewick, Spokane, Yakima"
+  },
+  "510": {
+    "region": "California",
+    "city": "Alameda, Berkeley, Castro Valley, Fremont, Hayward, Oakland, Richmond, San Leandro, Union City"
+  },
+  "512": {
+    "region": "Texas",
+    "city": "Austin, Round Rock"
+  },
+  "513": {
+    "region": "Ohio",
+    "city": "Cincinnati, Hamilton"
+  },
+  "514": {
+    "region": "Canada (Quebec)",
+    "city": "Montreal"
+  },
+  "515": {
+    "region": "Iowa",
+    "city": "Ames, Des Moines"
+  },
+  "516": {
+    "region": "New York",
+    "city": "Hempstead"
+  },
+  "517": {
+    "region": "Michigan",
+    "city": "Clinton, Lansing"
+  },
+  "518": {
+    "region": "New York",
+    "city": "Albany, Schenectady"
+  },
+  "519": {
+    "region": "Canada (Ontario)",
+    "city": "Brantford, Cambridge, Chatham, Guelph, Kitchener, London, Sarnia, Windsor"
+  },
+  "520": {
+    "region": "Arizona",
+    "city": "Casa Adobes, Catalina Foothills, Tucson"
+  },
+  "530": {
+    "region": "California",
+    "city": "Chico, Davis, Redding"
+  },
+  "531": {
+    "region": "Nebraska",
+    "city": "Lincoln, Omaha"
+  },
+  "534": {
+    "region": "Wisconsin",
+    "city": "Eau Claire"
+  },
+  "539": {
+    "region": "Oklahoma",
+    "city": "Broken Arrow, Tulsa"
+  },
+  "540": {
+    "region": "Virginia",
+    "city": "Roanoke"
+  },
+  "541": {
+    "region": "Oregon",
+    "city": "Bend, Eugene, Medford, Springfield"
+  },
+  "548": {
+    "region": "Canada (Ontario)",
+    "city": "Brantford, Cambridge, Chatham, Guelph, Kitchener, London, Sarnia, Windsor"
+  },
+  "551": {
+    "region": "New Jersey",
+    "city": "Bayonne, Jersey City, Union City"
+  },
+  "559": {
+    "region": "California",
+    "city": "Clovis, Fresno, Visalia"
+  },
+  "561": {
+    "region": "Florida",
+    "city": "Boca Raton, Boynton Beach, Delray Beach, West Palm Beach"
+  },
+  "562": {
+    "region": "California",
+    "city": "Bellflower, Cerritos, Downey, La Habra, Lakewood, Long Beach, Norwalk, Paramount, Pico Rivera, Whittier"
+  },
+  "563": {
+    "region": "Iowa",
+    "city": "Davenport, Dubuque"
+  },
+  "564": {
+    "region": "Washington",
+    "city": "Belingham, Vancouver"
+  },
+  "567": {
+    "region": "Ohio",
+    "city": "Sandusky, Toledo"
+  },
+  "570": {
+    "region": "Pennsylvania",
+    "city": "Scranton, Wilkes-Barre"
+  },
+  "571": {
+    "region": "Virginia",
+    "city": "Alexandria, Annandale, Arlington, Burke, Dale City, Reston"
+  },
+  "573": {
+    "region": "Missouri",
+    "city": "Columbia"
+  },
+  "574": {
+    "region": "Indiana",
+    "city": "Elkhart, South Bend"
+  },
+  "575": {
+    "region": "New Mexico",
+    "city": "Alamogordo, Las Cruces, Rio Rancho"
+  },
+  "579": {
+    "region": "Canada (Quebec)",
+    "city": "Brossard, Laval, Repentigny, Saint-Hyacinthe, Saint-Jean-sur-Richelieu, Saint-Jerome, Terrebonne"
+  },
+  "580": {
+    "region": "Oklahoma",
+    "city": "Lawton"
+  },
+  "581": {
+    "region": "Canada (Quebec)",
+    "city": "Levis, Quebec City"
+  },
+  "585": {
+    "region": "New York",
+    "city": "Rochester"
+  },
+  "586": {
+    "region": "Michigan",
+    "city": "St. Clair Shores, Sterling Heights, Warren"
+  },
+  "587": {
+    "region": "Canada (Alberta)",
+    "city": "Edmonton, St. Albert"
+  },
+  "601": {
+    "region": "Mississippi",
+    "city": "Jackson"
+  },
+  "602": {
+    "region": "Arizona",
+    "city": "Phoenix"
+  },
+  "603": {
+    "region": "New Hampshire",
+    "city": "Manchester, Nashua"
+  },
+  "604": {
+    "region": "Canada (British Columbia)",
+    "city": "Abbotsford, Burnaby, Chilliwack, Coquitlam, New Westminster, Port Coquitlam, Richmond, Surrey, Vancouver"
+  },
+  "605": {
+    "region": "South Dakota",
+    "city": "Rapid City, Sioux Falls"
+  },
+  "606": {
+    "region": "Kentucky",
+    "city": "Maysville"
+  },
+  "607": {
+    "region": "New York",
+    "city": "Endicott, Ithaca"
+  },
+  "608": {
+    "region": "Wisconsin",
+    "city": "Janesville, La Crosse, Madison"
+  },
+  "609": {
+    "region": "New Jersey",
+    "city": "Trenton"
+  },
+  "610": {
+    "region": "Pennsylvania",
+    "city": "Allentown, Bethlehem, Reading"
+  },
+  "612": {
+    "region": "Minnesota",
+    "city": "Minneapolis"
+  },
+  "613": {
+    "region": "Canada (Ontario)",
+    "city": "Kingston, Ottawa"
+  },
+  "614": {
+    "region": "Ohio",
+    "city": "Columbus"
+  },
+  "615": {
+    "region": "Tennessee",
+    "city": "Murfreesboro, Nashville"
+  },
+  "616": {
+    "region": "Michigan",
+    "city": "Grand Rapids, Wyoming"
+  },
+  "617": {
+    "region": "Massachusetts",
+    "city": "Boston, Cambridge, Newton, Quincy, Waltham"
+  },
+  "618": {
+    "region": "Illinois",
+    "city": "Belleville, Harrisburg"
+  },
+  "619": {
+    "region": "California",
+    "city": "Chula Vista, El Cajon, La Mesa, National City, San Diego, Santee"
+  },
+  "620": {
+    "region": "Kansas",
+    "city": "Hutchinson"
+  },
+  "623": {
+    "region": "Arizona",
+    "city": "Glendale, Peoria, Phoenix"
+  },
+  "626": {
+    "region": "California",
+    "city": "Alhambra, Arcadia, Baldwin Park, El Monte, Hacienda Heights, Monterey Park, Pasadena, Rosemead, West Covina"
+  },
+  "628": {
+    "region": "California",
+    "city": "San Francisco, San Rafael"
+  },
+  "629": {
+    "region": "Tennessee",
+    "city": "Murfreesboro, Nashville"
+  },
+  "630": {
+    "region": "Illinois",
+    "city": "Aurora, Naperville, Wheaton"
+  },
+  "631": {
+    "region": "New York",
+    "city": "Babylon, Brentwood, Brookhaven, Southampton"
+  },
+  "636": {
+    "region": "Missouri",
+    "city": "St. Charles, St. Peters"
+  },
+  "639": {
+    "region": "Canada (Saskatchewan)",
+    "city": "Regina, Saskatoon"
+  },
+  "641": {
+    "region": "Iowa",
+    "city": "Fairfield, Mason City"
+  },
+  "646": {
+    "region": "New York",
+    "city": "New York City - Manhattan area"
+  },
+  "647": {
+    "region": "Canada (Ontario)",
+    "city": "Toronto"
+  },
+  "649": {
+    "region": "Turks & Caicos",
+    "city": "Cockburn Town, Sandy Point"
+  },
+  "650": {
+    "region": "California",
+    "city": "Daly City, Mountain View, Palo Alto, Redwood City, San Mateo, South San Francisco"
+  },
+  "651": {
+    "region": "Minnesota",
+    "city": "St. Paul"
+  },
+  "657": {
+    "region": "California",
+    "city": "Anaheim, Buena Park, Fountain Valley, Fullerton, Garden Grove, Huntington Beach, Orange, Santa Ana, Tustin, Westminster, Yorba Linda"
+  },
+  "660": {
+    "region": "Missouri",
+    "city": "Clinton, Warrensburg"
+  },
+  "661": {
+    "region": "California",
+    "city": "Bakersfield, Lancaster, Palmdale, Santa Clarita"
+  },
+  "662": {
+    "region": "Mississippi",
+    "city": "Greenville, Tupelo"
+  },
+  "664": {
+    "region": "Montserrat",
+    "city": "Brades, Plymouth"
+  },
+  "667": {
+    "region": "Maryland",
+    "city": "Baltimore, Columbia, Dundalk, Ellicott City, Towson"
+  },
+  "669": {
+    "region": "California",
+    "city": "Cupertino, Milpitas, San Jose, Santa Clara, Sunnyvale"
+  },
+  "670": {
+    "region": "Northern Mariana Islands",
+    "city": "Saipan"
+  },
+  "671": {
+    "region": "Guam",
+    "city": "Dededo, Hagatna"
+  },
+  "678": {
+    "region": "Georgia",
+    "city": "Atlanta, Marietta, Roswell, Sandy Springs"
+  },
+  "680": {
+    "region": "New York",
+    "city": "Syracuse, Utica"
+  },
+  "681": {
+    "region": "West Virginia",
+    "city": "Charleston, Huntington"
+  },
+  "682": {
+    "region": "Texas",
+    "city": "Arlington, Fort Worth, North Richland Hills"
+  },
+  "684": {
+    "region": "American Samoa",
+    "city": "Pago Pago, Tafuna"
+  },
+  "701": {
+    "region": "North Dakota",
+    "city": "Bismarck, Fargo"
+  },
+  "702": {
+    "region": "Nevada",
+    "city": "Henderson, Las Vegas, Paradise, Spring Valley, Sunrise Manor"
+  },
+  "703": {
+    "region": "Virginia",
+    "city": "Alexandria, Annandale, Arlington, Burke, Dale City, Reston"
+  },
+  "704": {
+    "region": "North Carolina",
+    "city": "Charlotte, Concord, Gastonia"
+  },
+  "705": {
+    "region": "Canada (Ontario)",
+    "city": "Barrie, North Bay, Peterborough, Sault Ste. Marie, Sudbury"
+  },
+  "706": {
+    "region": "Georgia",
+    "city": "Athens, Augusta, Columbus"
+  },
+  "707": {
+    "region": "California",
+    "city": "Fairfield, Napa, Petaluma, Santa Rosa, Vacaville, Vallejo"
+  },
+  "708": {
+    "region": "Illinois",
+    "city": "Berwyn, Cicero, Oak Lawn, Oak Park, Orland Park"
+  },
+  "709": {
+    "region": "Canada (Newfoundland)",
+    "city": "St. John's"
+  },
+  "712": {
+    "region": "Iowa",
+    "city": "Council Bluffs, Sioux City"
+  },
+  "713": {
+    "region": "Texas",
+    "city": "832/346*\tBaytown, Houston, Missouri City, Pasadena, Sugar Land, The Woodlands"
+  },
+  "714": {
+    "region": "California",
+    "city": "Anaheim, Buena Park, Fountain Valley, Fullerton, Garden Grove, Huntington Beach, Orange, Santa Ana, Tustin, Westminster, Yorba Linda"
+  },
+  "715": {
+    "region": "Wisconsin",
+    "city": "Eau Claire"
+  },
+  "716": {
+    "region": "New York",
+    "city": "Buffalo, Cheektowaga, Niagara Falls, Tonawanda"
+  },
+  "717": {
+    "region": "Pennsylvania",
+    "city": "Lancaster"
+  },
+  "718": {
+    "region": "New York",
+    "city": "917/929*\tNew York City"
+  },
+  "719": {
+    "region": "Colorado",
+    "city": "Colorado Springs, Pueblo"
+  },
+  "720": {
+    "region": "Colorado",
+    "city": "Arvada, Aurora, Boulder, Denver, Highlands Ranch, Lakewood, Longmont, Thornton, Westminster"
+  },
+  "721": {
+    "region": "Sint Maarten",
+    "city": "Cul de Sac, Philipsburg"
+  },
+  "724": {
+    "region": "Pennsylvania",
+    "city": "Elwood City, Kensington"
+  },
+  "725": {
+    "region": "Nevada",
+    "city": "Henderson, Las Vegas, Paradise, Spring Valley, Sunrise Manor"
+  },
+  "726": {
+    "region": "Texas",
+    "city": "San Antonio"
+  },
+  "727": {
+    "region": "Florida",
+    "city": "Clearwater, Largo, Palm Harbor, St. Petersburg"
+  },
+  "731": {
+    "region": "Tennessee",
+    "city": "Jackson"
+  },
+  "732": {
+    "region": "New Jersey",
+    "city": "Brick Township, Edison, Toms River"
+  },
+  "734": {
+    "region": "Michigan",
+    "city": "Ann Arbor, Canton, Livonia, Westland"
+  },
+  "737": {
+    "region": "Texas",
+    "city": "Austin, Round Rock"
+  },
+  "740": {
+    "region": "Ohio",
+    "city": "Chillicothe, Zanesville"
+  },
+  "743": {
+    "region": "North Carolina",
+    "city": "Greensboro, High Point, Winston-Salem"
+  },
+  "747": {
+    "region": "California",
+    "city": "Burbank, Glendale"
+  },
+  "754": {
+    "region": "Florida",
+    "city": "Coral Springs, Davie, Deerfield Beach, Fort Lauderdale, Hollywood, Lauderhill, Margate, Pembroke Pines, Plantation, Pompano Beach, Sunrise, Tamarac"
+  },
+  "757": {
+    "region": "Virginia",
+    "city": "Chesapeake, Hampton, Newport News, Norfolk, Portsmouth, Suffolk, Virginia Beach"
+  },
+  "758": {
+    "region": "St. Lucia",
+    "city": "Castries, Vieux Fort"
+  },
+  "760": {
+    "region": "California",
+    "city": "Apple Valley, Carlsbad, Encinitas, Escondido, Hesperia, Oceanside, San Marcos, Victorville, Vista"
+  },
+  "762": {
+    "region": "Georgia",
+    "city": "Athens, Augusta, Columbus"
+  },
+  "763": {
+    "region": "Minnesota",
+    "city": "Brooklyn Park, Coon Rapids, Maple Grove, Plymouth"
+  },
+  "765": {
+    "region": "Indiana",
+    "city": "Anderson, Lafayette, Muncie"
+  },
+  "767": {
+    "region": "Dominica",
+    "city": "Roseau, Saint Joseph"
+  },
+  "769": {
+    "region": "Mississippi",
+    "city": "Jackson"
+  },
+  "770": {
+    "region": "Georgia",
+    "city": "Atlanta, Marietta, Roswell, Sandy Springs"
+  },
+  "772": {
+    "region": "Florida",
+    "city": "Port St. Lucie"
+  },
+  "773": {
+    "region": "Illinois",
+    "city": "Chicago"
+  },
+  "774": {
+    "region": "Massachusetts",
+    "city": "Brockton, Fall River, Framingham, New Bedford, Taunton, Worcester"
+  },
+  "775": {
+    "region": "Nevada",
+    "city": "Carson City, Reno, Sparks"
+  },
+  "778": {
+    "region": "Canada (British Columbia)",
+    "city": "Abbotsford, Burnaby, Chilliwack, Coquitlam, New Westminster, Port Coquitlam, Richmond, Surrey, Vancouver"
+  },
+  "779": {
+    "region": "Illinois",
+    "city": "Joliet, Rockford"
+  },
+  "780": {
+    "region": "Canada (Alberta)",
+    "city": "Edmonton, St. Albert"
+  },
+  "781": {
+    "region": "Massachusetts",
+    "city": "Lynn, Malden, Medford, Waltham, Weymouth"
+  },
+  "782": {
+    "region": "Canada (Nova Scotia/Prince Edward Island)",
+    "city": "Charlottetown, Halifax"
+  },
+  "784": {
+    "region": "St. Vincent & the Grenadines",
+    "city": "Kingstown, Port Elizabeth"
+  },
+  "785": {
+    "region": "Kansas",
+    "city": "Lawrence, Topeka"
+  },
+  "786": {
+    "region": "Florida",
+    "city": "Carol City, Hialeah, Kendale Lakes, Kendall, Miami, Miami Beach, Miramar, Tamiami"
+  },
+  "787": {
+    "region": "Puerto Rico",
+    "city": "Arecibo, Humacao, San Juan, Trujillo Alto"
+  },
+  "801": {
+    "region": "Utah",
+    "city": "Layton, Ogden, Orem, Provo, Salt Lake City, Sandy, Taylorsville, West Jordan, West Valley City"
+  },
+  "802": {
+    "region": "Vermont",
+    "city": "Colchester, Burlington"
+  },
+  "803": {
+    "region": "South Carolina",
+    "city": "Columbia"
+  },
+  "804": {
+    "region": "Virginia",
+    "city": "Richmond"
+  },
+  "805": {
+    "region": "California",
+    "city": "Camarillo, Goleta, Oxnard, San Buenaventura, Santa Barbara, Santa Maria, Simi Valley, Thousand Oaks"
+  },
+  "806": {
+    "region": "Texas",
+    "city": "Amarillo, Lubbock"
+  },
+  "807": {
+    "region": "Canada (Ontario)",
+    "city": "Thunder Bay"
+  },
+  "808": {
+    "region": "Hawaii",
+    "city": "Honolulu"
+  },
+  "809": {
+    "region": "Dominican Republic",
+    "city": "Azua de Compostela, Boca Chica, Santo Domingo"
+  },
+  "810": {
+    "region": "Michigan",
+    "city": "Flint"
+  },
+  "812": {
+    "region": "Indiana",
+    "city": "Bloomington, Evansville, Terre Haute"
+  },
+  "813": {
+    "region": "Florida",
+    "city": "Tampa"
+  },
+  "814": {
+    "region": "Pennsylvania",
+    "city": "Erie"
+  },
+  "815": {
+    "region": "Illinois",
+    "city": "Joliet, Rockford"
+  },
+  "816": {
+    "region": "Missouri",
+    "city": "Independence, Kansas City, Lee's Summit, St. Joseph"
+  },
+  "817": {
+    "region": "Texas",
+    "city": "Arlington, Fort Worth, North Richland Hills"
+  },
+  "818": {
+    "region": "California",
+    "city": "Burbank, Glendale"
+  },
+  "819": {
+    "region": "Canada (Quebec)",
+    "city": "Drummondville, Gatineau, Shawinigan, Sherbrooke, Trois-Rivieres"
+  },
+  "825": {
+    "region": "Canada (Alberta)",
+    "city": "Edmonton, St. Albert"
+  },
+  "828": {
+    "region": "North Carolina",
+    "city": "Asheville"
+  },
+  "829": {
+    "region": "Dominican Republic",
+    "city": "Azua de Compostela, Boca Chica, Santo Domingo"
+  },
+  "830": {
+    "region": "Texas",
+    "city": "Boerne, Canyon Lake, Gonzales"
+  },
+  "831": {
+    "region": "California",
+    "city": "Salinas, Santa Cruz"
+  },
+  "838": {
+    "region": "New York",
+    "city": "Albany, Schenectady"
+  },
+  "843": {
+    "region": "South Carolina",
+    "city": "Charleston"
+  },
+  "845": {
+    "region": "New York",
+    "city": "Cornwall, Montgomery, Woodstock"
+  },
+  "847": {
+    "region": "Illinois",
+    "city": "Arlington Heights, Des Plaines, Elgin, Evanston, Mount Prospect, Palatine, Schaumburg, Skokie, Waukegan"
+  },
+  "848": {
+    "region": "New Jersey",
+    "city": "Brick Township, Edison, Toms River"
+  },
+  "849": {
+    "region": "Dominican Republic",
+    "city": "Azua de Compostela, Boca Chica, Santo Domingo"
+  },
+  "850": {
+    "region": "Florida",
+    "city": "Pensacola, Tallahassee"
+  },
+  "854": {
+    "region": "South Carolina",
+    "city": "Charleston"
+  },
+  "856": {
+    "region": "New Jersey",
+    "city": "Camden, Vineland"
+  },
+  "857": {
+    "region": "Massachusetts",
+    "city": "Boston, Cambridge, Newton, Quincy, Waltham"
+  },
+  "858": {
+    "region": "California",
+    "city": "San Diego"
+  },
+  "859": {
+    "region": "Kentucky",
+    "city": "Lexington"
+  },
+  "860": {
+    "region": "Connecticut",
+    "city": "Bristol, Hartford, Manchester, New Britain, West Hartford"
+  },
+  "862": {
+    "region": "New Jersey",
+    "city": "Clifton, East Orange, Irvington, Newark, Passaic, Paterson, Wayne"
+  },
+  "863": {
+    "region": "Florida",
+    "city": "Lakeland"
+  },
+  "864": {
+    "region": "South Carolina",
+    "city": "Greenville"
+  },
+  "865": {
+    "region": "Tennessee",
+    "city": "Knoxville"
+  },
+  "867": {
+    "region": "Canada (Northwest Territories, Nunavut, Yukon)",
+    "city": "Dawson City, Whitehorse"
+  },
+  "868": {
+    "region": "Trinidad & Tobago",
+    "city": "Port of Spain, San Fernando"
+  },
+  "869": {
+    "region": "St. Kitts & Nevis",
+    "city": "Basseterre, Sandy Point Town"
+  },
+  "870": {
+    "region": "Arkansas",
+    "city": "Jonesboro, Pine Bluff"
+  },
+  "872": {
+    "region": "Illinois",
+    "city": "Chicago"
+  },
+  "873": {
+    "region": "Canada (Quebec)",
+    "city": "Drummondville, Gatineau, Shawinigan, Sherbrooke, Trois-Rivieres"
+  },
+  "876": {
+    "region": "Jamaica",
+    "city": "Kingston, Portmore, Spanish Town"
+  },
+  "878": {
+    "region": "Pennsylvania",
+    "city": "Elwood City, Kensington"
+  },
+  "901": {
+    "region": "Tennessee",
+    "city": "Memphis"
+  },
+  "902": {
+    "region": "Canada (Nova Scotia/Prince Edward Island)",
+    "city": "Charlottetown, Halifax"
+  },
+  "903": {
+    "region": "Texas",
+    "city": "Longview, Tyler"
+  },
+  "904": {
+    "region": "Florida",
+    "city": "Jacksonville"
+  },
+  "905": {
+    "region": "Canada (Ontario)",
+    "city": "Brampton, Burlington, Hamilton, Mississauga, Niagara Falls, Pickering, St. Catharines, Vaughan, Welland"
+  },
+  "906": {
+    "region": "Michigan",
+    "city": "Sainte Marie"
+  },
+  "907": {
+    "region": "Alaska",
+    "city": "Anchorage, Juneau, Ketchikan"
+  },
+  "908": {
+    "region": "New Jersey",
+    "city": "Elizabeth"
+  },
+  "909": {
+    "region": "California",
+    "city": "Chino, Chino Hills, Diamond Bar, Fontana, Ontario, Pomona, Rancho Cucamonga, Redlands, Rialto, San Bernardino, Upland"
+  },
+  "910": {
+    "region": "North Carolina",
+    "city": "Fayetteville, Jacksonville, Wilmington"
+  },
+  "912": {
+    "region": "Georgia",
+    "city": "Savannah"
+  },
+  "913": {
+    "region": "Kansas",
+    "city": "Kansas City, Olathe, Overland Park"
+  },
+  "914": {
+    "region": "New York",
+    "city": "Mount Vernon, New Rochelle, White Plains, Yonkers"
+  },
+  "915": {
+    "region": "Texas",
+    "city": "El Paso"
+  },
+  "916": {
+    "region": "California",
+    "city": "Arden-Arcade, Citrus Heights, Elk Grove, Folsom, Rancho Cordova, Roseville, Sacramento"
+  },
+  "917": {
+    "region": "New York",
+    "city": "New York City - Manhattan area"
+  },
+  "918": {
+    "region": "Oklahoma",
+    "city": "Broken Arrow, Tulsa"
+  },
+  "919": {
+    "region": "North Carolina",
+    "city": "Cary, Durham, Raleigh"
+  },
+  "920": {
+    "region": "Wisconsin",
+    "city": "Appleton, Green Bay, Oshkosh, Sheboygan"
+  },
+  "925": {
+    "region": "California",
+    "city": "Antioch, Concord, Livermore, Pittsburg, Pleasanton, Walnut Creek"
+  },
+  "928": {
+    "region": "Arizona",
+    "city": "Flagstaff, Yuma"
+  },
+  "930": {
+    "region": "Indiana",
+    "city": "Bloomington, Evansville, Terre Haute"
+  },
+  "931": {
+    "region": "Tennessee",
+    "city": "Clarksville"
+  },
+  "934": {
+    "region": "New York",
+    "city": "Babylon, Brentwood, Brookhaven, Southampton"
+  },
+  "936": {
+    "region": "Texas",
+    "city": "Diboll, Lufkin, Waller"
+  },
+  "937": {
+    "region": "Ohio",
+    "city": "Dayton, Kettering, Springfield"
+  },
+  "938": {
+    "region": "Alabama",
+    "city": "Decatur, Huntsville"
+  },
+  "939": {
+    "region": "Puerto Rico",
+    "city": "Arecibo, Humacao, San Juan, Trujillo Alto"
+  },
+  "940": {
+    "region": "Texas",
+    "city": "Bowie, Lake Dallas, Wichita Falls"
+  },
+  "941": {
+    "region": "Florida",
+    "city": "Sarasota"
+  },
+  "947": {
+    "region": "Michigan",
+    "city": "Farmington Hills, Pontiac, Rochester Hills, Royal Oak, Southfield, Troy, Waterford"
+  },
+  "949": {
+    "region": "California",
+    "city": "Costa Mesa, Irvine, Laguna Niguel, Lake Forest, Mission Viejo, Newport Beach"
+  },
+  "951": {
+    "region": "California",
+    "city": "Corona, Hemet, Moreno Valley, Riverside, Temecula"
+  },
+  "952": {
+    "region": "Minnesota",
+    "city": "Bloomington, Burnsville, Minnetonka"
+  },
+  "954": {
+    "region": "Florida",
+    "city": "Coral Springs, Davie, Deerfield Beach, Fort Lauderdale, Hollywood, Lauderhill, Margate, Pembroke Pines, Plantation, Pompano Beach, Sunrise, Tamarac"
+  },
+  "956": {
+    "region": "Texas",
+    "city": "Brownsville, Harlingen, Laredo, McAllen"
+  },
+  "959": {
+    "region": "Connecticut",
+    "city": "Bristol, Hartford, Manchester, New Britain, West Hartford"
+  },
+  "970": {
+    "region": "Colorado",
+    "city": "Fort Collins, Greeley, Loveland"
+  },
+  "971": {
+    "region": "Oregon",
+    "city": "Beaverton, Gresham, Hillsboro, Portland, Salem"
+  },
+  "972": {
+    "region": "Texas",
+    "city": "Arlington, Carrollton, Dallas, Flower Mound, Garland, Grand Prairie, Irving, Lewisville, McKinney, Mesquite, Plano, Richardson"
+  },
+  "973": {
+    "region": "New Jersey",
+    "city": "Clifton, East Orange, Irvington, Newark, Passaic, Paterson, Wayne"
+  },
+  "978": {
+    "region": "Massachusetts",
+    "city": "Haverhill, Lawrence, Lowell"
+  },
+  "979": {
+    "region": "Texas",
+    "city": "Bryan, College Station"
+  },
+  "980": {
+    "region": "North Carolina",
+    "city": "Charlotte, Concord, Gastonia"
+  },
+  "984": {
+    "region": "North Carolina",
+    "city": "Cary, Durham, Raleigh"
+  },
+  "985": {
+    "region": "Louisiana",
+    "city": "Laplace, St. Rose"
+  },
+  "986": {
+    "region": "Idaho",
+    "city": "Boise, Idaho Falls, Nampa, Pocatelllo"
+  },
+  "989": {
+    "region": "Michigan",
+    "city": "Saginaw"
+  },
+  "832": {
+    "region": "Texas",
+    "city": "Baytown, Houston, Missouri City, Pasadena, Sugar Land, The Woodlands"
+  },
+  "346": {
+    "region": "Texas",
+    "city": "Baytown, Houston, Missouri City, Pasadena, Sugar Land, The Woodlands"
+  }
+}

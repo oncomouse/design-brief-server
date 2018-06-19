@@ -7,6 +7,7 @@ const adjectives = require('./data/adjectives.json');
 const audiences = require('./data/audience.json');
 const businesses = require('./data/businesses.json');
 const cities = require('./data/cities.json');
+const area_codes = require('./data/area-codes.json');
 
 const makeRandom = (items) => items[Math.floor(Math.random()*items.length)];
 const randomInt = (low,high) => Math.floor(low + Math.random() * (high - 1));
@@ -39,5 +40,12 @@ app.get('/business', (req, res) => {
   })
 });
 app.get('/city', (req, res) => res.json(makeRandom(cities).city));
-
+app.get('/area-code/:ac([0-9]{3})', (req, res)=> {
+    const code = area_codes[req.params['ac']];
+    res.json({
+        region: code.region,
+        code: parseInt(req.params['ac']),
+        city: code.city,
+    });
+});
 app.listen(PORT, () => console.log(`Listening on ${ PORT }`));
