@@ -41,7 +41,7 @@ app.get('/business', (req, res) => {
 });
 app.get('/city', (req, res) => res.json(makeRandom(cities).city));
 app.get('/area-code/:ac([0-9]{3})', (req, res)=> {
-    const code = area_codes[req.params['ac']];
+    const code = (req.params['ac'] in area_codes) ? area_codes[req.params['ac']] : {code: req.params['ac'], region: 'Unknown Area Code', city: 'Unknown Area Code'};
     res.json({
         region: code.region,
         code: parseInt(req.params['ac']),
